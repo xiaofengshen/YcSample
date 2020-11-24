@@ -1,2 +1,3 @@
+include ':YcLibrary'
 include ':app'
 rootProject.name = "YcSample"
